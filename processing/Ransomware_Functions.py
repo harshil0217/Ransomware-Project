@@ -54,5 +54,9 @@ def YearCutoff(data, year_col, begin, end):
     data = data.reset_index()
     return data
 
+#Function to add rows of zero for the countries not included without ransom incidents
+
+
+
     
 
