@@ -1,10 +1,8 @@
 import pandas as pd
 import numpy as np
-import sys
 from country_dicts import name_to_alpha_2
 from country_dicts import alpha_2_to_name
 from country_dicts import us_states
-from itertools import product
 
 ransom_data = pd.read_csv("raw_data/RansomwareRepository_v12.4.csv")
 
@@ -17,11 +15,11 @@ ransom_data = ransom_data.drop(['ID Number', 'Date_Began',
                                 "PayMethod (only if paid)", "AmtPaid", "Source", 
                                 "Related incidents", "Comments"], axis = 1)
 
-from Ransomware_Functions import SplitCountries
+from Human_Rights_Lab import SplitCountries
 
-ransom_data = SplitCountries(ransom_data)
-ransom_data = SplitCountries(ransom_data, " and ")
-ransom_data = SplitCountries(ransom_data, "and ")
+ransom_data = SplitCountries(ransom_data, "Location (State)")
+ransom_data = SplitCountries(ransom_data, "Location (State)", " and ")
+ransom_data = SplitCountries(ransom_data, "Location (State)", "and ")
 
 for state in us_states:
     ransom_data = ransom_data.replace(state, us_states[state])
@@ -29,10 +27,10 @@ for state in us_states:
 ransom_data = ransom_data.dropna(subset = ["Year", "Location (State)"])
 ransom_data = ransom_data.reset_index(drop = True)
 
-from Ransomware_Functions import YearCutoff
+from Human_Rights_Lab import YearCutoff
 ransom_data = YearCutoff(ransom_data, "Year", 2017, 2022)
 
-from Ransomware_Functions import RemoveLoc
+from Human_Rights_Lab import RemoveLoc
 ransom_data = RemoveLoc(ransom_data, ["Global", "Undisclosed", "PEI", "Europe", "GCC Region",
                                        "Middle East", "North Africa", "Arab Region", 
                                        "Unspecified", "Global ", "Asia", "Scandinavia", 
@@ -89,7 +87,6 @@ def NewRow(x, ransom_data):
         return new_row_df
     
 new_rows = years_gci.apply(lambda x: NewRow(x, ransom_data), axis = 1, result_type = "expand")
-print("asdfhasdfa")
 ransom_data = pd.concat([ransom_data, new_rows], axis = 0)
 ransom_data
 
