@@ -1,0 +1,589 @@
+﻿case_id,sanctioned_state,sanctioning_state,begin,end,trade,descr_trade,arms,military,financial,travel,other,target_mult,sender_mult,objective,success
+364,Myanmar,Germany,1989,2013,0,,0,0,1,0,0,0,0,human_rights,success_part
+727,United States,Japan,2003,2013,1,imp_part,0,0,0,0,0,0,0,other,success_total
+771,Georgia,Russia,2006,2013,1,imp_part,0,0,0,0,0,0,0,"other,policy_change","success_total,success_total"
+809,Guinea,EU,2008,2013,0,,0,0,1,0,0,0,1,human_rights,success_total
+862,Malagasy Republic,African Union,2010,2013,0,,0,0,1,1,0,0,1,democracy,success_total
+864,Myanmar,"EU, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Liechtenstein, Norway, Moldova, Armenia",2010,2013,1,"exp_part, imp_part",1,1,1,1,0,0,1,human_rights,success_part
+910,Syria,"EU, Croatia, Macedonia, Montenegro, Iceland, Albania, Serbia, Liechtenstein, Norway, Moldova",2011,2013,1,"exp_part, imp_part",1,1,1,1,0,0,1,"human_rights,end_war","failed,failed"
+935,Mali,EU,2012,2013,0,,0,0,1,0,0,0,1,democracy,success_part
+937,Mali,United States,2012,2013,0,,0,1,1,1,0,0,0,democracy,success_part
+941,Pakistan,United States,2012,2013,0,,0,1,1,0,0,0,0,"democracy,human_rights","success_total,success_total"
+943,Paraguay,MERCOSUR,2012,2013,0,,0,0,0,0,1,0,1,democracy,success_total
+944,Paraguay,UNASUR,2012,2013,0,,0,0,0,0,1,0,1,"democracy,human_rights","success_total,success_total"
+945,Rwanda,EU,2012,2013,0,,0,0,1,0,0,0,1,"policy_change,democracy,human_rights","success_total,success_total,success_total"
+946,Rwanda,"Germany, Netherlands, Sweden",2012,2013,0,,0,0,1,0,0,0,1,"policy_change,democracy,human_rights","success_total,success_total,success_total"
+948,Rwanda,United States,2012,2013,0,,0,1,0,0,0,0,0,"policy_change,democracy,human_rights","success_total,success_total,success_total"
+971,Mali,United States,2013,2013,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,success_total
+975,Philippines,Taiwan,2013,2013,0,,0,0,0,1,0,0,0,other,success_total
+607,Ireland,United States,1998,2014,1,imp_part,0,0,0,0,0,0,0,other,success_total
+654,Fiji,United States,2000,2014,0,,1,1,1,1,1,0,0,democracy,success_total
+659,Yugoslavia,EU,2000,2014,0,,0,0,1,1,0,1,1,democracy,success_total
+729,Yugoslavia,EU,2003,2014,0,,0,0,1,0,0,1,1,democracy,success_total
+745,Cote d'Ivoire,UN,2005,2014,1,"exp_part, imp_part",0,0,0,0,0,0,1,"end_war,human_rights","success_part,success_part"
+767,Fiji,Australia,2006,2014,0,,0,1,0,1,0,0,0,democracy,success_total
+768,Fiji,Commonwealth,2006,2014,0,,0,0,0,0,1,0,1,democracy,success_total
+769,Fiji,New Zealand,2006,2014,0,,0,1,1,1,0,0,0,democracy,success_part
+770,Fiji,United States,2006,2014,0,,0,1,1,0,0,0,0,democracy,success_total
+783,Malagasy Republic,United States,2006,2014,0,,0,0,1,0,0,0,0,"democracy,human_rights,end_war","success_total,success_total,success_total"
+824,Fiji,Pacific Islands Forum,2009,2014,0,,0,0,0,0,1,0,1,democracy,success_total
+828,Guinea,"EU, Turkey, Croatia, Macedonia, Montenegro, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Ukraine, Moldova, Armenia, Georgia, Iceland",2009,2014,1,exp_part,1,1,1,1,0,0,1,human_rights,success_total
+837,Malagasy Republic,African Union,2009,2014,0,,0,0,0,0,1,0,1,democracy,success_total
+838,Malagasy Republic,SADC,2009,2014,0,,0,0,0,0,1,0,1,democracy,success_total
+854,Guinea,Switzerland,2010,2014,1,exp_part,1,1,1,1,0,0,0,human_rights,success_part
+863,Malagasy Republic,EU,2010,2014,0,,0,0,1,0,0,0,1,democracy,success_total
+878,Colombia,United States,2011,2014,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,success_total
+886,Fiji,Australia,2011,2014,0,,1,0,0,0,0,0,0,democracy,success_total
+920,Central African Republic,United States,2012,2014,0,,0,0,0,0,1,0,0,democracy,success_total
+922,Guinea-Bissau,African Union,2012,2014,0,,0,0,0,0,1,0,1,democracy,success_total
+924,Guinea-Bissau,EU,2012,2014,0,,0,0,1,1,0,0,1,democracy,success_total
+927,Guinea-Bissau,United States,2012,2014,0,,0,0,1,0,0,0,0,democracy,success_total
+931,Kenya,UN,2012,2014,0,,1,1,1,1,0,0,1,terrorism,failed
+961,Ecuador,United States,2013,2014,0,,0,0,1,0,0,0,0,destab_regime,failed
+962,Egypt,African Union,2013,2014,0,,0,0,0,0,1,0,1,democracy,success_total
+969,Kyrgyzstan,Uzbekistan,2013,2014,1,exp_part,0,0,0,0,0,0,0,other,failed
+970,Lithuania,Russia,2013,2014,1,imp_part,0,0,0,0,0,0,0,other,failed
+983,Belize,EU,2014,2014,1,imp_part,0,0,0,0,0,0,1,other,success_total
+994,Kyrgyzstan,Uzbekistan,2014,2014,1,exp_part,0,0,0,0,0,0,0,other,failed
+1013,Uganda,Sweden,2014,2014,0,,0,0,1,0,0,0,0,human_rights,success_total
+1017,Ukraine,"EU, Montenegro, Iceland, Albania, Liechtenstein, Norway, Moldova",2014,2014,1,exp_part,0,0,1,1,0,0,1,human_rights,success_total
+1020,Ukraine,Russia,2014,2014,1,exp_part,0,0,0,0,0,0,0,policy_change,failed
+1021,Ukraine,Switzerland,2014,2014,0,,0,0,1,0,0,0,0,human_rights,success_total
+64,Cuba,United States,1961,2015,0,,0,0,1,1,0,0,0,destab_regime,failed
+71,Cuba,OAS,1962,2015,0,,0,0,0,0,1,0,1,destab_regime,nego_settlement
+73,Cuba,United States,1962,2015,0,,0,0,1,0,0,0,0,destab_regime,failed
+273,Cuba,United States,1982,2015,0,,0,0,1,1,0,0,0,destab_regime,failed
+558,EU,Canada,1996,2015,1,imp_part,0,0,0,0,0,1,0,other,success_total
+718,Liberia,UN,2003,2015,0,,1,1,0,1,0,0,1,prevent_war,success_total
+735,Liberia,UN,2004,2015,0,,0,0,1,0,0,0,1,"prevent_war,democracy","success_part,success_total"
+736,Liberia,United States,2004,2015,1,"exp_part, imp_part",0,0,1,0,0,0,0,prevent_war,success_total
+797,Fiji,EU,2007,2015,1,exp_part,0,0,1,0,0,0,1,democracy,success_part
+964,Egypt,United States,2013,2015,0,,1,1,1,0,0,0,0,"human_rights,democracy","success_part,success_part"
+1009,Tanzania,"Canada, EU, Japan, Norway",2014,2015,0,,0,0,1,0,0,0,1,other,success_part
+297,Iran,United States,1984,2016,1,exp_part,1,0,1,0,0,0,0,"terrorism,human_rights","failed,failed"
+347,Myanmar,United States,1988,2016,0,,1,0,1,0,0,0,0,human_rights,success_total
+365,Myanmar,United States,1989,2016,1,imp_part,0,0,0,0,0,0,0,human_rights,success_total
+383,Myanmar,United States,1990,2016,1,imp_compl,0,0,0,0,0,0,0,human_rights,success_part
+539,Iran,United States,1995,2016,1,"exp_compl, imp_compl",0,0,0,0,0,0,0,"prevent_war,terrorism","success_total,failed"
+588,Myanmar,United States,1997,2016,0,,0,0,1,1,0,0,0,human_rights,success_total
+669,Liberia,EU,2001,2016,1,imp_part,1,1,0,1,0,0,1,end_war,success_total
+675,Yugoslavia,Switzerland,2001,2016,0,,0,0,1,0,0,1,0,democracy,success_total
+681,Colombia,EU,2002,2016,0,,0,0,1,0,0,0,1,terrorism,success_total
+697,Canada,China,2003,2016,1,imp_part,0,0,0,0,0,0,0,other,success_total
+699,Canada,Mexico,2003,2016,1,imp_part,0,0,0,0,0,0,0,other,success_total
+706,Costa Rica,United States,2003,2016,0,,0,1,0,0,0,0,0,other,success_total
+723,Myanmar,United States,2003,2016,1,exp_part,0,0,1,0,0,0,0,human_rights,success_total
+725,United States,Brazil,2003,2016,1,imp_part,0,0,0,0,0,0,0,other,success_total
+732,Cote d'Ivoire,UN,2004,2016,0,,1,1,1,1,0,0,1,"end_war,human_rights","success_total,success_total"
+744,Cote d'Ivoire,"EU, Turkey, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Ukraine, Moldova, Armenia, Georgia",2005,2016,1,exp_part,1,0,1,1,0,0,1,"end_war,human_rights","success_total,success_total"
+761,Belarus,Canada,2006,2016,1,exp_part,0,0,0,0,0,0,0,human_rights,success_total
+763,Belarus,Switzerland,2006,2016,0,,0,0,1,1,0,0,0,"democracy,human_rights","success_total,success_part"
+773,Iran,Japan,2006,2016,1,imp_part,0,0,0,0,0,0,0,prevent_war,success_part
+774,Iran,UN,2006,2016,1,"exp_part, imp_part",0,0,1,1,0,0,1,prevent_war,success_total
+798,Iran,EU,2007,2016,0,,1,0,0,0,0,0,1,prevent_war,success_total
+799,Iran,UN,2007,2016,0,,1,0,0,0,0,0,1,prevent_war,success_total
+803,Myanmar,United States,2007,2016,1,"exp_part, imp_part",0,0,1,0,0,0,0,human_rights,success_part
+806,South Vietnam,United States,2007,2016,0,,1,0,0,0,0,0,0,"prevent_war,human_rights","nego_settlement,nego_settlement"
+810,Iran,Australia,2008,2016,1,"exp_part, imp_part",1,1,1,1,0,0,0,prevent_war,success_total
+811,Iran,UN,2008,2016,0,,0,0,0,1,0,0,1,prevent_war,success_total
+815,Myanmar,United States,2008,2016,1,imp_part,0,0,0,0,0,0,0,human_rights,success_total
+855,Iran,Canada,2010,2016,1,exp_part,1,0,1,0,0,0,0,prevent_war,success_total
+857,Iran,UN,2010,2016,1,exp_part,1,1,1,0,0,0,1,prevent_war,success_total
+874,Belarus,"EU, Croatia, Macedonia, Montenegro, Bosnia and Herzegovina, Iceland, Albania, Serbia, Liechtenstein, Norway",2011,2016,1,exp_part,1,1,1,1,0,0,1,"democracy,human_rights","success_total,success_part"
+880,Cote d'Ivoire,"EU, Turkey, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Ukraine, Moldova, Armenia, Georgia",2011,2016,0,,0,0,1,1,0,0,1,"end_war,human_rights","success_total,success_total"
+882,Egypt,Canada,2011,2016,0,,0,0,1,0,0,0,0,other,success_part
+890,Iran,Canada,2011,2016,1,exp_part,0,0,0,0,0,0,0,prevent_war,success_total
+891,Iran,"EU, Croatia, Macedonia, Montenegro, Iceland, Liechtenstein, Norway, Moldova",2011,2016,0,,0,0,1,1,0,0,1,human_rights,failed
+892,Iran,Switzerland,2011,2016,1,"exp_part, imp_part",0,0,1,1,0,0,0,prevent_war,success_total
+928,Iran,Canada,2012,2016,1,"exp_part, imp_part",0,0,1,0,1,0,0,"terrorism,prevent_war,human_rights","failed,success_total,failed"
+929,Iran,EU,2012,2016,1,exp_part,0,0,0,0,0,0,1,human_rights,failed
+930,Iran,"EU, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Liechtenstein, Norway, Ukraine, Moldova",2012,2016,1,"exp_part, imp_part",0,0,1,0,0,0,1,human_rights,failed
+942,Palestine,United States,2012,2016,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,success_part
+958,Central African Republic,African Union,2013,2016,0,,0,0,1,1,1,0,1,"human_rights,prevent_war","success_total,success_total"
+959,Central African Republic,Kimberly Process Participants,2013,2016,1,imp_part,0,0,0,0,0,0,1,end_war,failed
+967,Iran,Canada,2013,2016,1,"exp_compl, imp_compl",0,0,1,0,0,0,0,prevent_war,success_total
+1031,Canada,South Korea,2015,2016,1,imp_part,0,0,0,0,0,0,0,other,success_total
+1032,Canada,Taiwan,2015,2016,1,imp_part,0,0,0,0,0,0,0,other,success_total
+1034,Liberia,UN,2015,2016,0,,1,1,0,0,0,0,1,prevent_war,success_total
+1035,Nepal,India,2015,2016,1,exp_part,0,0,0,0,0,0,0,"democracy,human_rights","success_part,success_part"
+1046,Iran,Switzerland,2016,2016,1,exp_part,0,0,0,1,0,0,0,prevent_war,success_total
+1051,Tanzania,United States,2016,2016,0,,0,0,1,0,0,0,0,"democracy,human_rights","success_total,success_total"
+464,Sudan,United States,1992,2017,0,,1,0,0,0,0,0,0,"territorial_conflict,end_war","failed,failed"
+593,Sudan,United States,1997,2017,1,"exp_compl, imp_compl",0,0,1,0,0,0,0,"terrorism,human_rights","success_part,success_part"
+600,France,United States,1998,2017,1,imp_part,0,0,0,0,0,0,0,other,success_total
+743,Cote d'Ivoire,Canada,2005,2017,0,,1,1,1,1,0,0,0,end_war,success_total
+766,Cote d'Ivoire,United States,2006,2017,0,,0,0,1,0,0,0,0,"end_war,human_rights","success_total,success_total"
+789,Sudan,United States,2006,2017,1,exp_part,0,0,1,0,0,0,0,"territorial_conflict,end_war","success_part,success_part"
+807,Sudan,United States,2007,2017,1,"exp_part, imp_part",0,0,1,0,0,0,0,"territorial_conflict,end_war","success_part,success_part"
+820,Benin,EU,2009,2017,0,,0,0,0,0,1,0,1,other,success_total
+866,Norway,China,2010,2017,0,,0,0,0,0,1,0,0,"democracy,human_rights","success_part,success_part"
+884,Egypt,Switzerland,2011,2017,0,,0,0,1,0,0,0,0,other,failed
+898,Libya,EU,2011,2017,0,,0,0,1,1,0,0,1,human_rights,failed
+990,"Gambia, The",EU,2014,2017,0,,0,0,1,0,0,0,1,human_rights,success_total
+1011,Thailand,EU,2014,2017,0,,0,0,0,0,1,0,1,"democracy,human_rights","success_total,success_total"
+1026,Afghanistan,UN,2015,2017,0,,1,0,1,1,0,0,1,terrorism,success_total
+1043,Egypt,Saudi Arabia,2016,2017,1,exp_part,0,0,0,0,0,0,0,democracy,failed
+1044,"Gambia, The",United States,2016,2017,0,,0,0,0,1,0,0,0,policy_change,success_total
+1048,Liberia,Canada,2016,2017,0,,1,1,1,1,0,0,0,prevent_war,success_total
+1050,Panama,United States,2016,2017,0,,0,0,1,0,0,0,0,other,ongoing
+1061,Iraq,United States,2017,2017,0,,0,0,0,1,0,0,0,terrorism,failed
+1071,Qatar,Senegal,2017,2017,0,,0,0,0,0,1,0,0,"terrorism,policy_change","failed,failed"
+1075,Sudan,United States,2017,2017,0,,0,0,0,1,0,0,0,terrorism,failed
+411,Myanmar,Australia,1991,2018,0,,1,0,1,1,0,0,0,democracy,success_total
+599,Ethiopia,Eritrea,1998,2018,0,,0,0,0,1,1,0,0,end_war,success_total
+821,Eritrea,Russia,2009,2018,1,exp_part,0,1,0,0,0,0,0,end_war,success_total
+822,Eritrea,UN,2009,2018,0,,1,1,1,1,0,0,1,end_war,success_total
+853,Eritrea,EU,2010,2018,0,,1,1,1,1,0,0,1,end_war,success_total
+867,Norway,China,2010,2018,1,imp_part,0,0,0,1,0,0,0,policy_change,failed
+885,Eritrea,UN,2011,2018,1,imp_part,0,0,0,0,0,0,1,end_war,success_total
+965,Eritrea,Russia,2013,2018,0,,1,0,0,0,0,0,0,end_war,success_total
+988,Colombia,United States,2014,2018,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,success_total
+1036,Ukraine,South Vietnam,2015,2018,1,imp_part,0,0,0,0,0,0,0,other,success_total
+1052,Cambodia,EU,2017,2018,0,,0,0,1,0,0,0,1,"democracy,human_rights","success_part,success_part"
+1054,Chad,United States,2017,2018,0,,0,0,0,1,0,0,0,terrorism,failed
+1056,Egypt,United States,2017,2018,0,,0,1,0,0,0,0,0,"human_rights,democracy","success_part,success_part"
+1059,Guinea,United States,2017,2018,0,,0,0,0,1,0,0,0,policy_change,success_total
+1067,Qatar,Chad,2017,2018,0,,0,0,0,0,1,0,0,"terrorism,policy_change","failed,failed"
+1086,China,United States,2018,2018,1,"exp_part, imp_part",0,0,0,0,0,0,0,policy_change,success_total
+1107,Turkey,United States,2018,2018,1,"exp_part, imp_part",0,0,1,1,0,0,0,"democracy,human_rights,other","success_total,success_total,success_total"
+1012,Thailand,United States,2014,2019,0,,0,0,1,0,0,0,0,"democracy,human_rights","success_total,success_total"
+1068,Qatar,Maldives,2017,2019,0,,0,0,0,0,1,0,0,"terrorism,policy_change","failed,failed"
+1100,Pakistan,United States,2018,2019,0,,0,1,0,0,0,0,0,"terrorism,end_war","nego_settlement,nego_settlement"
+1113,El Salvador,United States,2019,2019,0,,0,0,1,0,0,0,0,policy_change,success_total
+1117,Guatemala,United States,2019,2019,0,,0,0,1,0,0,0,0,policy_change,success_total
+1118,Honduras,United States,2019,2019,0,,0,0,1,0,0,0,0,policy_change,success_total
+1122,Latvia,United States,2019,2019,0,,0,0,1,0,0,0,0,other,nego_settlement
+1135,Venezuela,United States,2019,2019,0,,0,0,1,0,0,0,0,democracy,success_total
+328,Cyprus,United States,1987,2020,0,,1,0,0,0,0,0,0,territorial_conflict,failed
+497,Sudan,United States,1993,2020,0,,0,0,1,0,0,0,0,terrorism,success_part
+1114,El Salvador,United States,2019,2020,0,,0,0,1,0,0,0,0,policy_change,success_total
+1115,Ghana,United States,2019,2020,0,,0,0,0,1,0,0,0,policy_change,success_total
+1116,Guatemala,United States,2019,2020,0,,0,0,1,0,0,0,0,policy_change,success_total
+1119,Honduras,United States,2019,2020,0,,0,0,1,0,0,0,0,policy_change,success_total
+850,Colombia,United States,2010,2021,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+883,Egypt,"EU, Croatia, Macedonia, Albania, Montenegro, Iceland, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Moldova, Georgia",2011,2021,0,,0,0,1,0,0,0,1,other,success_total
+972,Moldova,Russia,2013,2021,1,imp_part,0,0,0,0,0,0,0,policy_change,nego_settlement
+979,Taiwan,United States,2013,2021,1,"exp_part, imp_part",0,0,1,0,0,0,0,policy_change,success_part
+1029,Burundi,EU,2015,2021,0,,0,0,1,1,0,0,1,"human_rights,end_war","failed,failed"
+1030,Burundi,United States,2015,2021,0,,0,0,1,1,0,0,0,"human_rights,end_war","failed,failed"
+1060,Iran,United States,2017,2021,0,,0,0,0,1,0,0,0,terrorism,failed
+1069,Qatar,"Mauritania, Djibouti, Comoros, Jordan, Libya, Yemen, North, Niger",2017,2021,0,,0,0,0,0,1,0,1,"terrorism,policy_change","failed,failed"
+1070,Qatar,"Saudi Arabia, United Arab Emirates, Bahrain, Egypt",2017,2021,0,,0,0,0,1,1,0,1,"terrorism,policy_change","failed,failed"
+1073,Sierra Leone,United States,2017,2021,0,,0,0,0,1,0,0,0,policy_change,failed
+1101,Palestine,United States,2018,2021,0,,0,0,1,0,0,0,0,policy_change,success_part
+1125,Lesotho,United States,2019,2021,0,,0,0,0,1,0,0,0,other,failed
+1129,Nigeria,United States,2019,2021,0,,0,0,0,1,0,0,0,terrorism,failed
+1159,Lesotho,United States,2020,2021,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,failed
+1202,Egypt,United Kingdom,2021,2021,0,,0,0,1,0,0,0,0,other,success_total
+1227,Mali,France,2021,2021,0,,0,1,0,0,0,0,0,end_war,failed
+16,Israel,League of Arab States,1950,2022,1,"exp_compl, imp_compl",0,0,0,0,0,0,1,territorial_conflict,ongoing
+26,North Korea,UN,1951,2022,0,,1,0,0,0,0,0,1,end_war,ongoing
+50,Cuba,United States,1958,2022,0,,1,0,0,0,0,0,0,destab_regime,ongoing
+72,Cuba,United States,1962,2022,1,"exp_compl, imp_compl",0,0,0,0,0,0,0,destab_regime,ongoing
+179,Cyprus (Northern),Cyprus,1974,2022,0,,0,0,0,0,1,0,0,territorial_conflict,ongoing
+199,League of Arab States,United States,1976,2022,0,,0,0,1,0,0,1,0,policy_change,ongoing
+327,Cyprus,Turkey,1987,2022,0,,0,0,0,0,1,0,0,territorial_conflict,ongoing
+352,Armenia,Azerbaijan,1989,2022,1,"exp_compl, imp_compl",0,0,0,1,1,0,0,territorial_conflict,ongoing
+363,China,United States,1989,2022,0,,1,1,0,0,0,0,0,human_rights,ongoing
+368,Sudan,United States,1989,2022,0,,0,0,1,0,0,0,0,democracy,ongoing
+390,Sudan,United States,1990,2022,0,,0,1,1,0,0,0,0,human_rights,ongoing
+431,China,EU,1992,2022,0,,1,1,0,0,0,0,1,human_rights,ongoing
+434,Cuba,United States,1992,2022,0,,0,0,1,1,0,0,0,destab_regime,ongoing
+463,Somalia,UN,1992,2022,0,,1,0,0,0,0,0,1,"end_war,human_rights","ongoing,ongoing"
+473,Armenia,Turkey,1993,2022,1,"exp_compl, imp_compl",0,0,0,1,1,0,0,end_war,ongoing
+512,Haiti,United States,1994,2022,0,,1,1,0,0,0,0,0,"democracy,policy_change","ongoing,ongoing"
+522,Armenia,OSCE,1995,2022,0,,1,0,0,0,0,0,1,end_war,ongoing
+524,Azerbaijan,OSCE,1995,2022,0,,1,0,0,0,0,0,1,end_war,ongoing
+557,Cuba,United States,1996,2022,0,,0,0,1,1,0,0,0,destab_regime,ongoing
+559,Iran,United States,1996,2022,1,exp_part,0,0,0,0,0,0,0,terrorism,ongoing
+560,Libya,United States,1996,2022,1,exp_part,0,0,0,0,0,0,0,terrorism,ongoing
+598,ECOWAS,ECOWAS,1998,2022,0,,1,0,0,0,0,1,1,prevent_war,ongoing
+662,Balkans,United States,2001,2022,0,,0,0,1,0,0,1,0,prevent_war,ongoing
+676,Afghanistan,"EU, Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia, Bulgaria, Romania, Turkey, Iceland, Liechtenstein, Norway",2002,2022,0,,1,1,1,1,1,0,1,"terrorism,end_war","ongoing,ongoing"
+677,Afghanistan,UN,2002,2022,0,,1,1,1,1,1,0,1,"terrorism,end_war","ongoing,ongoing"
+686,Philippines,"EU, United States",2002,2022,0,,0,0,1,0,0,0,1,terrorism,ongoing
+689,Zimbabwe,Australia,2002,2022,0,,1,1,1,1,0,0,0,democracy,ongoing
+691,Zimbabwe,"EU, Turkey, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Liechtenstein, Norway, Ukraine, Moldova, Armenia, Georgia, Serbia",2002,2022,1,exp_part,1,1,1,1,0,0,1,"democracy,human_rights","ongoing,ongoing"
+692,Zimbabwe,Switzerland,2002,2022,1,exp_part,1,1,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+694,Zimbabwe,United Kingdom,2002,2022,1,exp_part,0,1,0,0,0,0,0,"democracy,human_rights","ongoing,ongoing"
+705,Democratic Republic of the Congo,UN,2003,2022,0,,1,1,0,0,0,0,1,end_war,ongoing
+721,Moldova,"EU, Turkey, Croatia, Macedonia, Montenegro, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Armenia, Georgia, Azerbaijan",2003,2022,0,,0,0,0,1,0,0,1,policy_change,ongoing
+724,Nigeria,United States,2003,2022,0,,0,1,0,0,0,0,0,other,ongoing
+730,Zimbabwe,United States,2003,2022,0,,0,0,1,0,0,0,0,"democracy,human_rights","ongoing,ongoing"
+733,Iraq,EU,2004,2022,0,,1,0,0,0,0,0,1,"terrorism,end_war,prevent_war","ongoing,ongoing,ongoing"
+738,Sudan,UN,2004,2022,0,,1,1,0,0,0,0,1,"human_rights,end_war","ongoing,ongoing"
+739,Syria,United States,2004,2022,1,"exp_part, imp_part",0,0,1,0,1,0,0,"terrorism,end_war,prevent_war","ongoing,ongoing,ongoing"
+741,Democratic Republic of the Congo,EU,2005,2022,0,,1,1,1,1,0,0,1,end_war,ongoing
+742,Democratic Republic of the Congo,UN,2005,2022,0,,0,0,1,1,0,0,1,end_war,ongoing
+753,Sudan,"EU, Turkey, Croatia, Macedonia, Montenegro, Iceland, Albania, Serbia, Liechtenstein, Norway, Armenia",2005,2022,0,,1,1,1,1,0,0,1,"end_war,human_rights","ongoing,ongoing"
+754,Sudan,UN,2005,2022,0,,0,0,1,1,0,0,1,"human_rights,end_war","ongoing,ongoing"
+764,Belarus,United States,2006,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+765,Democratic Republic of the Congo,United States,2006,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"end_war,democracy,human_rights","ongoing,ongoing,ongoing"
+775,North Korea,Australia,2006,2022,1,"exp_part, imp_part",1,1,1,1,1,0,0,prevent_war,ongoing
+776,North Korea,EU,2006,2022,1,exp_part,1,1,1,1,0,0,1,prevent_war,ongoing
+777,North Korea,Japan,2006,2022,1,imp_compl,0,0,1,0,1,0,0,prevent_war,ongoing
+779,North Korea,UN,2006,2022,1,"exp_part, imp_part",1,1,1,1,1,0,1,prevent_war,ongoing
+780,Lebanon,EU,2006,2022,0,,1,1,1,0,0,0,1,end_war,ongoing
+782,Lebanon,UN,2006,2022,0,,1,1,0,0,0,0,1,end_war,ongoing
+788,Sudan,United States,2006,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"human_rights,end_war","ongoing,ongoing"
+790,Syria,United States,2006,2022,0,,0,0,1,0,0,0,0,terrorism,ongoing
+794,Venezuela,United States,2006,2022,0,,1,0,0,0,0,0,0,policy_change,ongoing
+795,Afghanistan,New Zealand,2007,2022,0,,1,1,0,1,0,0,0,"terrorism,end_war","ongoing,ongoing"
+796,Eritrea,United States,2007,2022,0,,0,0,0,1,1,0,0,policy_change,ongoing
+800,Lebanon,United States,2007,2022,0,,0,0,1,0,0,0,0,democracy,ongoing
+812,North Korea,United States,2008,2022,1,exp_part,0,0,1,0,0,0,0,prevent_war,ongoing
+817,Somalia,UN,2008,2022,0,,1,1,1,1,0,0,1,"end_war,human_rights,prevent_war","ongoing,ongoing,ongoing"
+818,Venezuela,United States,2008,2022,0,,0,0,1,0,0,0,0,terrorism,ongoing
+819,Zimbabwe,Canada,2008,2022,0,,1,1,1,0,1,0,0,democracy,ongoing
+836,North Korea,Japan,2009,2022,1,exp_compl,0,0,0,0,0,0,0,prevent_war,ongoing
+845,Somalia,"EU, Turkey, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Ukraine, Moldova, Armenia",2009,2022,0,,1,1,1,1,0,0,1,"end_war,human_rights","ongoing,ongoing"
+846,Somalia,Switzerland,2009,2022,1,imp_part,1,1,1,1,0,0,0,"end_war,human_rights","ongoing,ongoing"
+858,Iraq,UN,2010,2022,0,,1,0,0,0,0,0,1,prevent_war,ongoing
+859,North Korea,South Korea,2010,2022,1,"exp_compl, imp_compl",0,0,0,1,1,0,0,"end_war,human_rights,democracy","ongoing,ongoing,ongoing"
+860,North Korea,United States,2010,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,prevent_war,ongoing
+868,Somalia,United States,2010,2022,1,imp_part,0,0,1,0,0,0,0,"end_war,prevent_war","ongoing,ongoing"
+869,Sudan,UN,2010,2022,0,,0,1,0,0,0,0,1,"human_rights,end_war","ongoing,ongoing"
+872,Afghanistan,"EU, Turkey, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Ukraine, Moldova, Armenia, Georgia",2011,2022,0,,1,1,1,1,0,0,1,terrorism,ongoing
+873,Afghanistan,United States,2011,2022,0,,1,1,0,0,0,0,0,terrorism,ongoing
+875,Belize,United States,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+876,Bolivia,United States,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+877,Bosnia and Herzegovina,"EU, Turkey, Montenegro, Albania, Liechtenstein, Armenia, Georgia, Iceland, Norway",2011,2022,0,,0,0,1,1,0,0,1,prevent_war,ongoing
+879,Costa Rica,United States,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+881,Dominican Republic,United States,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+887,Guatemala,United States,2011,2022,0,,0,0,1,0,0,0,0,other,ongoing
+889,Indonesia,United States,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+893,Jamaica,United States,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+894,North Korea,Canada,2011,2022,1,"exp_compl, imp_compl",0,0,1,0,1,0,0,prevent_war,ongoing
+895,North Korea,United States,2011,2022,1,imp_compl,0,0,0,0,0,0,0,prevent_war,ongoing
+896,Libya,Australia,2011,2022,0,,1,1,1,1,0,0,0,human_rights,ongoing
+897,Libya,Canada,2011,2022,1,"exp_part, imp_part",1,1,1,0,0,0,0,"human_rights,destab_regime","ongoing,ongoing"
+899,Libya,"EU, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Moldova, Armenia, Georgia",2011,2022,1,exp_part,0,0,1,1,0,0,1,human_rights,ongoing
+902,Libya,Switzerland,2011,2022,1,exp_part,0,0,1,1,0,0,0,human_rights,ongoing
+903,Libya,UN,2011,2022,0,,1,1,1,1,1,0,1,human_rights,ongoing
+904,Libya,United States,2011,2022,0,,0,0,1,0,1,0,0,human_rights,ongoing
+906,Panama,United States,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+907,South Sudan,"EU, Turkey, Croatia, Macedonia, Montenegro, Iceland, Albania, Serbia, Liechtenstein, Norway, Armenia",2011,2022,0,,1,1,1,1,0,0,1,"human_rights,end_war","ongoing,ongoing"
+908,Syria,Australia,2011,2022,1,"exp_part, imp_part",1,1,1,1,0,0,0,human_rights,ongoing
+909,Syria,Canada,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,human_rights,ongoing
+911,Syria,League of Arab States,2011,2022,1,"exp_part, imp_part",1,0,1,1,1,0,1,human_rights,ongoing
+913,Syria,United States,2011,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"human_rights,destab_regime","ongoing,ongoing"
+914,Terrorist Organizations (Al-Qaeda),UN,2011,2022,0,,1,1,1,1,0,1,1,terrorism,ongoing
+915,Terrorist Organizations (Taliban),UN,2011,2022,0,,1,1,1,1,0,1,1,terrorism,ongoing
+916,Tunisia,Canada,2011,2022,0,,0,0,1,0,0,0,0,other,ongoing
+917,Tunisia,"EU, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Moldova, Armenia",2011,2022,0,,0,0,1,0,0,0,1,other,ongoing
+918,Tunisia,Switzerland,2011,2022,0,,0,0,1,0,0,0,0,other,ongoing
+919,Belize,United States,2012,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+921,Democratic Republic of the Congo,United States,2012,2022,0,,0,0,1,1,0,0,0,end_war,ongoing
+923,Guinea-Bissau,ECOWAS,2012,2022,0,,0,0,1,1,1,0,1,democracy,ongoing
+925,Guinea-Bissau,Switzerland,2012,2022,0,,0,0,1,1,0,0,0,democracy,ongoing
+926,Guinea-Bissau,UN,2012,2022,0,,0,0,0,1,0,0,1,democracy,ongoing
+938,Myanmar,Australia,2012,2022,0,,1,1,1,0,0,0,0,human_rights,ongoing
+939,Myanmar,Canada,2012,2022,0,,1,1,1,0,0,0,0,human_rights,ongoing
+940,Myanmar,Switzerland,2012,2022,0,,1,1,0,0,0,0,0,human_rights,ongoing
+949,Somalia,"EU, Turkey, Croatia, Macedonia, Montenegro, Iceland, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Ukraine, Moldova, Armenia",2012,2022,1,imp_part,0,0,0,0,0,0,1,"end_war,human_rights,terrorism","ongoing,ongoing,ongoing"
+950,Somalia,UN,2012,2022,1,imp_part,0,0,0,0,0,0,1,"end_war,human_rights,terrorism","ongoing,ongoing,ongoing"
+951,Somalia,United States,2012,2022,1,imp_part,0,0,0,0,0,0,0,"territorial_conflict,democracy,human_rights","ongoing,ongoing,ongoing"
+952,Syria,Canada,2012,2022,1,exp_part,0,0,1,1,0,0,0,"human_rights,destab_regime","ongoing,ongoing"
+953,Syria,OIC,2012,2022,0,,0,0,0,0,1,0,1,human_rights,ongoing
+954,Syria,Switzerland,2012,2022,1,exp_part,1,1,1,1,1,0,0,"human_rights,end_war","ongoing,ongoing"
+956,"Yemen, North",United States,2012,2022,0,,0,0,1,0,0,0,0,prevent_war,ongoing
+957,Belize,United States,2013,2022,1,imp_part,0,0,0,0,0,0,0,other,ongoing
+960,Central African Republic,UN,2013,2022,0,,1,1,0,0,0,0,1,"end_war,human_rights","ongoing,ongoing"
+963,Egypt,"EU, Croatia, Macedonia, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Moldova, Georgia",2013,2022,1,exp_part,1,0,0,0,0,0,1,"human_rights,democracy","ongoing,ongoing"
+966,Greece,United States,2013,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,policy_change,ongoing
+968,North Korea,UN,2013,2022,0,,0,0,1,0,0,0,1,prevent_war,ongoing
+973,Myanmar,"EU, Croatia, Macedonia, Montenegro, Iceland, Serbia, Albania, Bosnia and Herzegovina, Liechtenstein, Norway, Moldova, Armenia",2013,2022,1,exp_part,1,1,0,0,0,0,1,human_rights,ongoing
+974,Nigeria,United States,2013,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"territorial_conflict,terrorism,democracy,human_rights","ongoing,ongoing,ongoing,ongoing"
+976,Somalia,Switzerland,2013,2022,1,imp_part,0,0,0,0,0,0,0,"end_war,human_rights,terrorism","ongoing,ongoing,ongoing"
+977,Syria,Canada,2013,2022,1,exp_part,0,0,0,0,0,0,0,human_rights,ongoing
+978,Syria,"EU, Croatia, Macedonia, Montenegro, Iceland, Albania, Serbia, Liechtenstein, Norway, Moldova",2013,2022,1,"exp_part, imp_part",1,0,1,0,0,0,1,"human_rights,end_war","ongoing,ongoing"
+980,Armenia,United Kingdom,2014,2022,1,exp_part,0,0,0,0,0,0,0,end_war,ongoing
+981,Australia,Russia,2014,2022,1,imp_part,0,0,0,0,0,0,0,policy_change,ongoing
+982,Azerbaijan,United Kingdom,2014,2022,1,exp_part,0,0,0,0,0,0,0,end_war,ongoing
+984,Canada,Russia,2014,2022,1,imp_part,0,0,0,1,0,0,0,policy_change,ongoing
+985,Central African Republic,EU,2014,2022,0,,1,1,0,1,0,0,1,"end_war,human_rights","ongoing,ongoing"
+986,Central African Republic,UN,2014,2022,0,,0,0,1,1,0,0,1,"human_rights,end_war","ongoing,ongoing"
+987,Central African Republic,United States,2014,2022,0,,0,0,1,1,0,0,0,"prevent_war,human_rights","ongoing,ongoing"
+989,EU,Russia,2014,2022,1,imp_part,0,0,0,0,0,1,0,policy_change,ongoing
+991,Guinea,"EU, Turkey, Croatia, Macedonia, Montenegro, Albania, Bosnia and Herzegovina, Serbia, Liechtenstein, Norway, Ukraine, Moldova, Armenia, Georgia, Iceland",2014,2022,0,,0,0,1,1,0,0,1,human_rights,ongoing
+992,Guinea,Switzerland,2014,2022,0,,0,0,1,1,0,0,0,human_rights,ongoing
+993,Israel,"Spain, United Kingdom",2014,2022,1,exp_part,1,0,0,0,0,0,1,prevent_war,ongoing
+995,Malawi,United Kingdom,2014,2022,0,,0,0,1,0,0,0,0,other,ongoing
+996,Nigeria,UN,2014,2022,0,,1,0,1,1,0,0,1,"territorial_conflict,terrorism","ongoing,ongoing"
+997,Norway,Russia,2014,2022,1,imp_part,0,0,0,0,0,0,0,policy_change,ongoing
+998,Russia,Australia,2014,2022,1,exp_part,1,1,1,1,0,0,0,policy_change,ongoing
+999,Russia,Canada,2014,2022,1,exp_part,0,0,1,0,0,0,0,policy_change,ongoing
+1000,Russia,EU,2014,2022,1,"exp_part, imp_part",1,1,1,0,0,0,1,policy_change,ongoing
+1001,Russia,"EU, Montenegro, Iceland, Albania, Liechtenstein, Norway, Ukraine",2014,2022,1,imp_part,0,0,1,1,0,0,1,policy_change,ongoing
+1002,Russia,Japan,2014,2022,1,imp_part,0,1,1,1,0,0,0,policy_change,ongoing
+1003,Russia,New Zealand,2014,2022,0,,0,0,1,1,1,0,0,policy_change,ongoing
+1004,Russia,Switzerland,2014,2022,1,"exp_part, imp_part",1,1,1,0,0,0,0,policy_change,ongoing
+1005,Russia,United States,2014,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"policy_change,prevent_war","ongoing,ongoing"
+1006,South Sudan,Canada,2014,2022,0,,0,0,1,0,0,0,0,"human_rights,end_war","ongoing,ongoing"
+1007,South Sudan,EU,2014,2022,0,,0,0,1,1,0,0,1,"territorial_conflict,end_war","ongoing,ongoing"
+1008,South Sudan,United States,2014,2022,0,,0,0,1,1,0,0,0,"human_rights,prevent_war,end_war","ongoing,ongoing,ongoing"
+1010,Terrorist Organizations (ISIL and ANF),UN,2014,2022,0,,1,1,1,1,0,1,1,terrorism,ongoing
+1014,Ukraine,Australia,2014,2022,0,,0,0,1,1,0,0,0,policy_change,ongoing
+1015,Ukraine,Canada,2014,2022,1,"exp_part, imp_part",0,0,1,1,1,0,0,policy_change,ongoing
+1016,Ukraine,EU,2014,2022,0,,0,0,1,1,0,0,1,other,ongoing
+1018,Ukraine,"EU, Montenegro, Iceland, Albania, Liechtenstein, Norway, Moldova",2014,2022,1,"exp_part, imp_part",0,0,1,1,1,0,1,policy_change,ongoing
+1019,Ukraine,Japan,2014,2022,1,imp_part,1,1,1,1,0,0,0,policy_change,ongoing
+1022,Ukraine,Switzerland,2014,2022,1,"exp_part, imp_part",1,0,1,0,0,0,0,policy_change,ongoing
+1023,Ukraine,United States,2014,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,policy_change,ongoing
+1024,United States,Russia,2014,2022,1,imp_part,0,0,0,0,0,0,0,policy_change,ongoing
+1025,"Yemen, North",UN,2014,2022,0,,0,0,1,1,0,0,1,"end_war,terrorism,human_rights","ongoing,ongoing,ongoing"
+1027,"Albania, Montenegro, Liechtenstein, Iceland",Russia,2015,2022,1,imp_part,0,0,0,0,0,1,0,policy_change,ongoing
+1028,Burundi,Belgium,2015,2022,0,,0,0,1,0,0,0,0,"democracy,human_rights","success_part,success_part"
+1033,North Korea,United States,2015,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,prevent_war,ongoing
+1037,Venezuela,United States,2015,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"human_rights,democracy","ongoing,ongoing"
+1038,"Yemen, North",EU,2015,2022,0,,1,1,1,1,0,0,1,"end_war,terrorism,human_rights","ongoing,ongoing,ongoing"
+1039,"Yemen, North",UN,2015,2022,0,,1,1,0,0,0,0,1,"end_war,terrorism,human_rights","ongoing,ongoing,ongoing"
+1040,Burundi,EU,2016,2022,0,,0,0,1,0,0,0,1,"democracy,human_rights","failed,failed"
+1041,Burundi,United States,2016,2022,0,,0,0,1,0,0,0,0,"end_war,democracy,human_rights","failed,failed,failed"
+1042,Democratic Republic of the Congo,United States,2016,2022,0,,0,0,1,0,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1045,Iran,Canada,2016,2022,1,exp_part,0,0,1,0,0,0,0,prevent_war,ongoing
+1047,North Korea,United States,2016,2022,1,exp_compl,0,0,1,1,0,0,0,prevent_war,ongoing
+1049,Libya,United States,2016,2022,0,,0,0,0,1,0,0,0,human_rights,ongoing
+1053,Cambodia,United States,2017,2022,0,,0,0,0,1,0,0,0,policy_change,ongoing
+1055,China,United States,2017,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,policy_change,ongoing
+1057,Eritrea,United States,2017,2022,0,,0,0,0,1,0,0,0,policy_change,ongoing
+1058,"Gambia, The",United States,2017,2022,0,,0,0,1,0,0,0,0,human_rights,ongoing
+1062,Kenya,United States,2017,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1063,North Korea,Burkina Faso,2017,2022,1,imp_compl,0,0,0,0,0,0,0,policy_change,ongoing
+1064,North Korea,United States,2017,2022,1,"exp_part, imp_part",0,0,1,1,1,0,0,prevent_war,ongoing
+1065,Libya,United States,2017,2022,0,,0,0,0,1,0,0,0,terrorism,ongoing
+1066,Mali,UN,2017,2022,0,,0,0,1,1,0,0,1,"democracy,human_rights","ongoing,ongoing"
+1072,Russia,United States,2017,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,policy_change,ongoing
+1074,Somalia,United States,2017,2022,0,,0,0,0,1,0,0,0,terrorism,ongoing
+1076,Syria,United States,2017,2022,0,,0,0,0,1,0,0,0,terrorism,ongoing
+1077,Venezuela,Canada,2017,2022,0,,0,0,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1078,Venezuela,"EU, Macedonia, Montenegro, Albania, Bosnia and Herzegovina, Iceland, Liechtenstein, Norway, Moldova, Georgia",2017,2022,1,exp_part,1,1,1,1,0,0,1,"democracy,human_rights","ongoing,ongoing"
+1079,Venezuela,Peru,2017,2022,0,,0,0,0,0,1,0,0,"democracy,human_rights","ongoing,ongoing"
+1080,Venezuela,United States,2017,2022,0,,0,0,1,1,0,0,0,"democracy,human_rights,terrorism","ongoing,ongoing,ongoing"
+1081,"Yemen, North",United States,2017,2022,0,,0,0,0,1,0,0,0,terrorism,ongoing
+1082,Belize,United States,2018,2022,0,,0,0,1,0,0,0,0,"human_rights,other","ongoing,ongoing"
+1083,Burkina Faso,United States,2018,2022,0,,0,0,1,0,0,0,0,terrorism,ongoing
+1084,Cambodia,Australia,2018,2022,0,,0,0,1,0,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1085,Cambodia,United States,2018,2022,0,,0,1,1,0,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1087,China,United States,2018,2022,1,"exp_part, imp_part",1,0,1,0,0,0,0,policy_change,ongoing
+1088,Colombia,United States,2018,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1089,Dominican Republic,United States,2018,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+1090,Ghana,United States,2018,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1091,Guinea-Bissau,ECOWAS,2018,2022,0,,0,0,1,1,0,0,1,policy_change,ongoing
+1092,Indonesia,Australia,2018,2022,0,,0,0,1,0,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1093,Iran,South Korea,2018,2022,1,imp_part,0,0,0,0,0,0,0,prevent_war,ongoing
+1094,Iran,United States,2018,2022,1,"exp_part,imp_part",0,0,1,1,0,0,0,terrorism,ongoing
+1095,Laos,United States,2018,2022,0,,0,0,0,1,0,0,0,policy_change,failed
+1096,Lebanon,United States,2018,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1097,Myanmar,Switzerland,2018,2022,0,,0,0,1,1,0,0,0,"human_rights,democracy","ongoing,ongoing"
+1098,Myanmar,United States,2018,2022,0,,0,0,0,1,0,0,0,other,ongoing
+1099,Nicaragua,United States,2018,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"human_rights,democracy,other","ongoing,ongoing,ongoing"
+1102,Saudi Arabia,"United States, France, Germany, Canada",2018,2022,1,"exp_part, imp_part",0,0,1,1,0,0,1,"democracy,human_rights","ongoing,ongoing"
+1103,Sierra Leone,United States,2018,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1104,South Sudan,United States,2018,2022,0,,1,0,0,0,0,0,0,"territorial_conflict,end_war","ongoing,ongoing"
+1105,Tanzania,Denmark,2018,2022,0,,0,0,1,0,0,0,0,human_rights,ongoing
+1106,Tanzania,EU,2018,2022,0,,0,0,1,0,1,0,1,human_rights,ongoing
+1108,Venezuela,Switzerland,2018,2022,1,exp_part,1,0,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1109,Cambodia,United States,2019,2022,0,,0,0,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1110,Cameroon,United States,2019,2022,0,,0,0,1,0,0,0,0,democracy,ongoing
+1111,China,United States,2019,2022,1,"exp_part, imp_part",0,0,0,1,0,0,0,human_rights,ongoing
+1112,Dominican Republic,United States,2019,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1120,Iran,United States,2019,2022,0,,0,0,1,0,0,0,0,terrorism,ongoing
+1121,Iraq,United States,2019,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"democracy,human_rights,other","ongoing,ongoing,ongoing"
+1123,Latvia,United States,2019,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+1124,Lebanon,Argentina,2019,2022,0,,0,0,0,1,0,0,0,terrorism,ongoing
+1126,Mali,United States,2019,2022,0,,0,0,1,1,0,0,0,"democracy,human_rights,terrorism","ongoing,ongoing,ongoing"
+1127,Myanmar,United States,2019,2022,0,,0,0,1,0,0,0,0,human_rights,ongoing
+1128,Nicaragua,Canada,2019,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,human_rights,ongoing
+1130,Nigeria,United States,2019,2022,0,,0,0,0,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1131,Pakistan,United States,2019,2022,0,,0,0,0,1,0,0,0,policy_change,ongoing
+1132,South Africa,United States,2019,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+1133,"Syria, Russia, Iran",United States,2019,2022,0,,0,0,1,1,0,1,0,"end_war,human_rights","ongoing,ongoing"
+1134,Turkey,EU,2019,2022,0,,0,0,1,1,0,0,1,policy_change,ongoing
+1136,Venezuela,United States,2019,2022,1,imp_part,0,0,1,0,1,0,0,"human_rights,democracy","ongoing,ongoing"
+1137,Afghanistan,United Kingdom,2020,2022,0,,1,1,1,1,1,0,0,"terrorism,end_war","ongoing,ongoing"
+1138,Belarus,EU,2020,2022,0,,0,0,1,1,0,0,1,"democracy,human_rights","ongoing,ongoing"
+1139,Belarus,"Lithuania, Latvia, Estonia",2020,2022,0,,0,0,0,1,0,0,1,"democracy,human_rights","ongoing,ongoing"
+1140,Burundi,United States,2020,2022,0,,0,0,0,1,0,0,0,policy_change,ongoing
+1141,Central African Republic,United States,2020,2022,1,"exp_part,imp_part",0,0,1,1,0,0,0,human_rights,ongoing
+1142,Ceylon,United States,2020,2022,0,,0,0,0,1,0,0,0,human_rights,ongoing
+1143,China,United States,2020,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"human_rights,other","ongoing,ongoing"
+1144,El Salvador,United States,2020,2022,0,,0,0,1,1,0,0,0,human_rights,ongoing
+1145,"Estonia, Latvia, Lithuania",Belarus,2020,2022,0,,0,0,0,1,0,1,0,policy_change,ongoing
+1146,Ethiopia,EU,2020,2022,0,,0,0,0,1,0,0,1,end_war,ongoing
+1147,Ethiopia,United States,2020,2022,0,,0,0,0,1,0,0,0,end_war,ongoing
+1148,"Gambia, The",United Kingdom,2020,2022,0,,0,0,1,1,0,0,0,human_rights,ongoing
+1149,"Gambia, The",United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+1150,Haiti,United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,human_rights,ongoing
+1151,Hong Kong,United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,policy_change,ongoing
+1152,Iran,United States,2020,2022,1,"exp_part,imp_part",0,0,1,1,0,0,0,"terrorism,policy_change","ongoing,ongoing"
+1153,Jamaica,United States,2020,2022,0,,0,0,1,1,0,0,0,human_rights,ongoing
+1154,Kyrgyzstan,United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+1155,"Latvia, Lithuania, Estonia",Belarus,2020,2022,0,,0,0,0,1,0,1,0,policy_change,ongoing
+1156,Lebanon,EU,2020,2022,0,,0,0,0,1,0,0,1,terrorism,ongoing
+1157,Lebanon,Lithuania,2020,2022,0,,0,0,0,1,0,0,0,terrorism,ongoing
+1158,Lebanon,United States,2020,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,terrorism,ongoing
+1160,Liberia,United States,2020,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,other,ongoing
+1161,Libya,EU,2020,2022,0,,0,0,1,1,0,0,1,"policy_change,human_rights","ongoing,ongoing"
+1162,Libya,United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"other,destab_regime","ongoing,ongoing"
+1163,Mali,United States,2020,2022,0,,0,1,0,0,0,0,0,"end_war,democracy","ongoing,ongoing"
+1164,Malta,United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"other,destab_regime","ongoing,ongoing"
+1165,Moldova,United States,2020,2022,0,,0,0,0,1,0,0,0,other,ongoing
+1166,Nicaragua,EU,2020,2022,0,,0,0,1,1,0,0,1,human_rights,ongoing
+1167,Nicaragua,United Kingdom,2020,2022,0,,0,0,1,1,0,0,0,human_rights,ongoing
+1168,Russia,United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,human_rights,ongoing
+1169,South Vietnam,United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,policy_change,ongoing
+1170,Syria,United States,2020,2022,0,,0,0,1,0,0,0,0,end_war,ongoing
+1171,Tanzania,United States,2020,2022,0,,0,0,0,1,0,0,0,human_rights,ongoing
+1172,Turkey,United States,2020,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,policy_change,ongoing
+1173,Venezuela,United States,2020,2022,1,"exp_compl,imp_part",0,0,1,0,0,0,0,democracy,ongoing
+1174,"Yemen, North",United States,2020,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,human_rights,ongoing
+1175,Afghanistan,United Kingdom,2021,2022,0,,1,1,1,1,0,0,0,terrorism,ongoing
+1176,Albania,United States,2021,2022,0,,0,0,0,1,0,0,0,other,ongoing
+1177,Angola,United States,2021,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,other,ongoing
+1178,Bangladesh,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"human_rights,other","ongoing,ongoing"
+1179,Belarus,EU,2021,2022,0,,0,0,1,1,0,0,1,"democracy,human_rights","ongoing,ongoing"
+1180,Belarus,"EU, Macedonia, Montenegro, Serbia, Albania",2021,2022,0,,0,0,0,1,1,0,1,"democracy,human_rights","ongoing,ongoing"
+1181,Belarus,United Kingdom,2021,2022,0,,0,0,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1182,Belarus,United States,2021,2022,0,,0,0,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1183,Brazil,United States,2021,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1184,Bulgaria,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+1185,Burundi,United Kingdom,2021,2022,0,,0,0,1,0,0,0,0,"democracy,human_rights","failed,failed"
+1186,Cambodia,United States,2021,2022,0,,1,0,0,0,0,0,0,"policy_change,human_rights,other","ongoing,ongoing,ongoing"
+1187,Cameroon,United Kingdom,2021,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1188,Cameroon,United States,2021,2022,0,,0,0,0,1,0,0,0,"end_war,human_rights","ongoing,ongoing"
+1189,Central African Republic,EU,2021,2022,0,,0,1,0,0,0,0,1,"policy_change,prevent_war","ongoing,ongoing"
+1190,Central African Republic,United Kingdom,2021,2022,0,,1,1,1,1,0,0,0,"end_war,human_rights,other","ongoing,ongoing,ongoing"
+1191,Central African Republic,United States,2021,2022,1,"exp_part,imp_part",0,0,1,0,0,0,0,human_rights,ongoing
+1192,Ceylon,United States,2021,2022,0,,0,0,0,1,0,0,0,human_rights,ongoing
+1193,China,Canada,2021,2022,0,,0,0,1,1,0,0,0,human_rights,ongoing
+1194,China,EU,2021,2022,0,,0,0,1,1,0,0,1,"policy_change,human_rights","ongoing,ongoing"
+1195,China,United Kingdom,2021,2022,0,,1,1,1,1,0,0,0,human_rights,ongoing
+1196,China,United States,2021,2022,0,,0,0,1,1,0,0,0,human_rights,ongoing
+1197,Democratic Republic of the Congo,United Kingdom,2021,2022,0,,1,1,1,1,0,0,0,"end_war,human_rights,democracy","ongoing,ongoing,ongoing"
+1198,Democratic Republic of the Congo,United States,2021,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"terrorism,other","ongoing,ongoing"
+1199,EU,China,2021,2022,1,"exp_part, imp_part",0,0,0,1,0,1,0,policy_change,ongoing
+1200,EU,Russia,2021,2022,0,,0,0,0,1,0,1,0,policy_change,ongoing
+1201,Egypt,United Kingdom,2021,2022,1,exp_part,1,0,0,0,0,0,0,"human_rights,democracy","ongoing,ongoing"
+1203,Egypt,United States,2021,2022,0,,0,0,1,0,0,0,0,human_rights,ongoing
+1204,El Salvador,United States,2021,2022,0,,0,0,1,1,0,0,0,"policy_change,democracy,other","ongoing,ongoing,ongoing"
+1205,Equatorial Guinea,United Kingdom,2021,2022,0,,0,0,1,1,0,0,0,other,ongoing
+1206,Eritrea,United States,2021,2022,0,,0,0,1,0,0,0,0,end_war,ongoing
+1207,Ethiopia,United States,2021,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"human_rights,end_war","ongoing,ongoing"
+1208,Guatemala,United States,2021,2022,0,,0,0,0,1,0,0,0,"democracy,other","ongoing,ongoing"
+1209,Guatemala,"United States, United Kingdom",2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,1,"human_rights,other","ongoing,ongoing"
+1210,Guinea,African Union,2021,2022,0,,0,0,0,0,1,0,1,"end_war,democracy","ongoing,ongoing"
+1211,Guinea,ECOWAS,2021,2022,0,,0,0,1,1,1,0,1,"end_war,democracy","ongoing,ongoing"
+1212,Guinea,United Kingdom,2021,2022,0,,0,0,1,1,0,0,0,human_rights,ongoing
+1213,Guinea,United States,2021,2022,0,,0,0,1,0,0,0,0,"end_war,democracy","ongoing,ongoing"
+1214,Honduras,United States,2021,2022,0,,0,0,0,1,0,0,0,"democracy,other","ongoing,ongoing"
+1215,Iran,United States,2021,2022,1,"exp_part,imp_part",0,0,1,0,0,0,0,policy_change,ongoing
+1216,Iraq,United Kingdom,2021,2022,0,,1,0,1,0,0,0,0,"terrorism,end_war,prevent_war,other","ongoing,ongoing,ongoing,ongoing"
+1217,Iraq,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"human_rights,other","ongoing,ongoing"
+1218,Kuwait,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1219,Lebanon,Australia,2021,2022,0,,0,0,1,0,0,0,0,terrorism,ongoing
+1220,Lebanon,United Kingdom,2021,2022,0,,1,1,1,1,0,0,0,"terrorism,end_war,other","ongoing,ongoing,ongoing"
+1221,Lebanon,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1222,Liberia,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+1223,Libya,United Kingdom,2021,2022,1,exp_part,0,0,1,1,0,0,0,"human_rights,other","ongoing,ongoing"
+1224,Libya,United States,2021,2022,0,,0,0,1,0,0,0,0,human_rights,ongoing
+1225,Lithuania,China,2021,2022,1,"exp_part, imp_part",0,0,0,0,1,0,0,policy_change,ongoing
+1226,Mali,ECOWAS,2021,2022,0,,0,0,0,0,1,0,1,"end_war,democracy","ongoing,ongoing"
+1228,Mali,United Kingdom,2021,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1229,Moldova,United Kingdom,2021,2022,0,,0,0,0,1,0,0,0,policy_change,ongoing
+1230,Mozambique,United States,2021,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,terrorism,ongoing
+1231,Myanmar,EU,2021,2022,0,,0,0,1,1,0,0,1,"human_rights,democracy,end_war","ongoing,ongoing,ongoing"
+1232,Myanmar,Switzerland,2021,2022,0,,0,0,1,1,0,0,0,"human_rights,democracy","ongoing,ongoing"
+1233,Myanmar,United Kingdom,2021,2022,1,exp_part,1,1,1,1,0,0,0,"human_rights,democracy,end_war","ongoing,ongoing,ongoing"
+1234,Myanmar,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"human_rights,democracy,end_war","ongoing,ongoing,ongoing"
+1235,Nicaragua,United Kingdom,2021,2022,0,,0,0,1,1,0,0,0,"human_rights,democracy,other","ongoing,ongoing,ongoing"
+1236,Nicaragua,United States,2021,2022,0,,0,0,1,0,0,0,0,"human_rights,democracy,other","ongoing,ongoing,ongoing"
+1237,Palestine,United Kingdom,2021,2022,0,,0,0,1,0,0,0,0,terrorism,ongoing
+1238,Paraguay,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"human_rights,other","ongoing,ongoing"
+1239,Philippines,United Kingdom,2021,2022,0,,0,0,1,0,0,0,0,terrorism,ongoing
+1240,Russia,United Kingdom,2021,2022,1,"exp_part, imp_part",1,1,1,1,0,0,0,policy_change,ongoing
+1241,Rwanda,UN,2021,2022,0,,0,0,1,0,0,0,1,other,ongoing
+1242,Saudi Arabia,United States,2021,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1243,Somalia,United Kingdom,2021,2022,1,imp_part,1,1,1,1,0,0,0,"end_war,human_rights,terrorism","ongoing,ongoing,ongoing"
+1244,South Sudan,United Kingdom,2021,2022,0,,1,1,1,1,0,0,0,"human_rights,end_war,territorial_conflict","ongoing,ongoing,ongoing"
+1245,South Sudan,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,other,ongoing
+1246,Sudan,United Kingdom,2021,2022,0,,1,1,1,1,0,0,0,"end_war,human_rights","ongoing,ongoing"
+1247,Sudan,United States,2021,2022,0,,0,0,1,0,0,0,0,end_war,failed
+1248,Syria,United Kingdom,2021,2022,1,"exp_part, imp_part",1,0,1,0,0,0,0,"human_rights,end_war","ongoing,ongoing"
+1249,Taiwan,China,2021,2022,1,"exp_part, imp_part",0,0,0,0,0,0,0,policy_change,ongoing
+1250,Taiwan,Hong Kong,2021,2022,0,,0,0,0,1,0,0,0,policy_change,ongoing
+1251,Tanzania,United States,2021,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,"terrorism,democracy","ongoing,ongoing"
+1252,Transjordan,United Kingdom,2021,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1253,Tunisia,United Kingdom,2021,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1254,Turkey,United Kingdom,2021,2022,0,,0,0,1,1,0,0,0,policy_change,ongoing
+1255,Uganda,United States,2021,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,human_rights,ongoing
+1256,Ukraine,United Kingdom,2021,2022,1,"exp_part, imp_part",0,0,1,1,1,0,0,"policy_change,other","ongoing,ongoing"
+1257,Ukraine,United States,2021,2022,1,"exp_part, imp_part",0,0,1,1,0,0,0,other,ongoing
+1258,United States,China,2021,2022,0,,0,0,1,1,0,0,0,policy_change,ongoing
+1259,United States,Hong Kong,2021,2022,0,,0,0,1,1,0,0,0,policy_change,ongoing
+1260,Venezuela,United Kingdom,2021,2022,1,exp_part,1,1,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1261,Western Balkans,United States,2021,2022,0,,0,0,0,1,0,1,0,"human_rights,democracy,other","ongoing,ongoing,ongoing"
+1262,"Yemen, North",United Kingdom,2021,2022,0,,1,1,1,1,0,0,0,"end_war,terrorism,human_rights","ongoing,ongoing,ongoing"
+1263,Zimbabwe,United Kingdom,2021,2022,1,exp_part,1,1,1,1,0,0,0,"democracy,human_rights","ongoing,ongoing"
+1264,Afghanistan,United States,2022,2022,0,,0,0,1,0,0,0,0,"human_rights,democracy","ongoing,ongoing"
+1265,"Albania, Bosnia and Herzegovina, Macedonia, Montenegro",United States,2022,2022,0,,0,0,1,0,0,1,0,other,ongoing
+1266,Belarus,Australia,2022,2022,0,,0,0,1,1,0,0,0,"policy_change,end_war","ongoing,ongoing"
+1267,Belarus,EU,2022,2022,1,"exp_part, imp_part",0,0,1,0,1,0,1,"policy_change,end_war","ongoing,ongoing"
+1268,Belarus,Japan,2022,2022,1,exp_part,0,0,1,0,0,0,0,"policy_change,end_war","ongoing,ongoing"
+1269,Belarus,South Korea,2022,2022,1,exp_part,0,0,0,0,0,0,0,"policy_change,end_war","ongoing,ongoing"
+1270,Belarus,Switzerland,2022,2022,1,"exp_part,imp_part",0,0,1,0,1,0,0,"policy_change,end_war","ongoing,ongoing"
+1271,Belarus,United Kingdom,2022,2022,1,"exp_part,imp_part",0,0,1,1,1,0,0,"policy_change,end_war","ongoing,ongoing"
+1272,Belarus,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,1,0,0,"policy_change,end_war","ongoing,ongoing"
+1273,Bosnia and Herzegovina,United States,2022,2022,0,,0,0,1,1,0,0,0,other,ongoing
+1274,Bulgaria,Russia,2022,2022,1,exp_part,0,0,0,0,0,0,0,policy_change,ongoing
+1275,Burkina Faso,Denmark,2022,2022,0,,0,0,1,0,0,0,0,"democracy,end_war",ongoing
+1276,Burkina Faso,ECOWAS,2022,2022,0,,0,0,0,0,1,0,1,democracy,ongoing
+1277,Burkina Faso,United States,2022,2022,0,,0,0,1,0,0,0,0,end_war,ongoing
+1278,China,United States,2022,2022,0,,0,0,0,1,0,0,0,policy_change,ongoing
+1279,Democratic Republic of the Congo,United States,2022,2022,0,,0,0,1,0,0,0,0,"prevent_war,other","ongoing,ongoing"
+1280,EU,Russia,2022,2022,1,exp_part,0,0,0,0,0,1,0,policy_change,ongoing
+1281,EU,Russia,2022,2022,1,"exp_part, imp_part",0,0,1,1,1,1,0,policy_change,ongoing
+1282,Ecuador,United States,2022,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1283,Guatemala,United States,2022,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1284,Guinea,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"terrorism,other","ongoing,ongoing"
+1285,Honduras,United States,2022,2022,0,,0,0,0,1,0,0,0,"democracy,other","ongoing,ongoing"
+1286,Indonesia,United States,2022,2022,0,,0,0,0,1,0,0,0,terrorism,ongoing
+1287,Iran,United States,2022,2022,0,,0,0,1,0,0,0,0,"prevent_war,terrorism","ongoing,ongoing"
+1288,Iraq,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1289,North Korea,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,prevent_war,ongoing
+1290,Lebanon,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1291,Mali,Denmark,2022,2022,0,,0,0,1,0,0,0,0,policy_change,ongoing
+1292,Mali,ECOWAS,2022,2022,1,"exp_part, imp_part",0,0,1,1,1,0,1,democracy,ongoing
+1293,Mali,EU,2022,2022,0,,0,0,1,1,0,0,1,democracy,ongoing
+1294,Mexico,United States,2022,2022,0,,0,0,1,0,0,0,0,other,ongoing
+1295,Mozambique,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1296,Nigeria,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1297,Palestine,Israel,2022,2022,0,,0,0,0,1,0,0,0,terrorism,ongoing
+1298,Poland,Russia,2022,2022,1,exp_part,0,0,0,0,0,0,0,policy_change,ongoing
+1299,"Poland, Hungary",EU,2022,2022,0,,0,0,1,0,0,1,1,democracy,ongoing
+1300,Russia,Australia,2022,2022,1,"exp_part,imp_compl",0,0,1,1,1,0,0,"policy_change,prevent_war,end_war,democracy","ongoing,ongoing,ongoing,ongoing"
+1301,Russia,Canada,2022,2022,1,"exp_part,imp_compl",0,0,1,1,1,0,0,end_war,ongoing
+1302,Russia,"EU, Macedonia, Albania, Kosovo",2022,2022,1,"exp_part,imp_part",0,0,1,1,1,0,1,"policy_change,prevent_war,end_war","ongoing,ongoing,ongoing"
+1303,Russia,"G7, EU",2022,2022,1,"exp_part,imp_part",0,0,1,0,0,0,1,end_war,ongoing
+1304,Russia,Germany,2022,2022,1,imp_part,0,0,0,0,1,0,0,"policy_change,prevent_war","ongoing,ongoing"
+1305,Russia,Iceland,2022,2022,1,"exp_part,imp_part",0,0,1,1,1,0,0,end_war,ongoing
+1306,Russia,Japan,2022,2022,1,"exp_part,imp_part",0,0,1,1,0,0,0,"policy_change,prevent_war,end_war","ongoing,ongoing,ongoing"
+1307,Russia,South Korea,2022,2022,1,exp_part,0,0,1,0,0,0,0,end_war,ongoing
+1308,Russia,Liechtenstein,2022,2022,0,,0,0,1,0,0,0,0,end_war,ongoing
+1309,Russia,Norway,2022,2022,1,"exp_part,imp_part",0,0,1,1,1,0,0,end_war,ongoing
+1310,Russia,Singapore,2022,2022,1,exp_part,0,0,1,0,0,0,0,end_war,ongoing
+1311,Russia,Switzerland,2022,2022,1,"exp_part,imp_part",0,0,1,1,1,0,0,end_war,ongoing
+1312,Russia,Taiwan,2022,2022,1,exp_part,0,0,0,0,0,0,0,end_war,ongoing
+1313,Russia,United Kingdom,2022,2022,1,"exp_part,imp_part",0,0,1,1,1,0,0,"policy_change,prevent_war,end_war,democracy","ongoing,ongoing,ongoing,ongoing"
+1314,Russia,United States,2022,2022,1,"exp_part, imp_part",0,0,1,1,1,0,0,"policy_change,prevent_war,end_war","ongoing,ongoing,ongoing"
+1315,Russia,"United States, EU, United Kingdom, Canada, France, Germany, Italy, Japan",2022,2022,0,,0,0,1,0,1,0,1,end_war,ongoing
+1316,Russia,"United States, United Kingdom, Canada",2022,2022,0,,0,0,1,0,0,0,1,end_war,ongoing
+1317,Somalia,United States,2022,2022,0,,0,0,0,1,0,0,0,democracy,ongoing
+1318,Sudan,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,"human_rights,democracy","ongoing,ongoing"
+1319,Syria,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1320,Tanzania,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1321,Uganda,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,policy_change,ongoing
+1322,Ukraine,United Kingdom,2022,2022,0,,0,0,1,0,0,0,0,end_war,ongoing
+1323,United Arab Emirates,United States,2022,2022,1,"exp_part, imp_part",0,0,1,0,0,0,0,terrorism,ongoing
+1324,United States,China,2022,2022,0,,0,0,0,1,0,0,0,policy_change,ongoing
+1325,United States,Russia,2022,2022,1,"exp_part, imp_part",0,0,1,1,1,0,0,policy_change,ongoing
