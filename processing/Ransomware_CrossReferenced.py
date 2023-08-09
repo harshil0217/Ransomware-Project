@@ -83,5 +83,6 @@ ransom_data = active_sanctions(ransom_data, sanctions, "Trade Sanctions", col = 
 ransom_data = active_sanctions(ransom_data, sanctions, "Financial Sanctions", col = "financial")
 ransom_data = active_sanctions(ransom_data, sanctions, "Travel Sanctions", col = "travel")
 
+ransom_data = CountryCodes(ransom_data, "Location (State)", alpha_2_to_name)
 
 ransom_data.to_csv("cleaned_data/year-country_with_sanctions.csv", index = False)
