@@ -97,7 +97,7 @@ ransom_data = CountryCodes(ransom_data, "Location (State)", alpha_2_to_name)
 ransom_data = ransom_data.sort_values(by = ["Year", "Location (State)"])
 
 #Output dataframe to cleaned_data folder
-ransom_data.to_csv("cleaned_data/year-country_transformed.csv")
+ransom_data.to_csv("cleaned_data/year-country_transformed.csv", index = False)
 
 
 

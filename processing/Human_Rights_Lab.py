@@ -13,15 +13,18 @@ def SplitCountries(data, col, delim = ', '):
     return data
 
 #Functions to convert country names into standardized ISO-2 country codes
-def CheckKeys(x, c_dict):
-    if x in c_dict.keys():
-        return c_dict[x]
+def CheckKeys(x, c_dict, not_in_dict):
+    if not_in_dict == False:
+        if x in c_dict.keys():
+            return c_dict[x]
+        else:
+            return x
     else:
-        return x
+        return c_dict[x]
     
-def CountryCodes(data, country_col, c_dict):
+def CountryCodes(data, country_col, c_dict, not_in_dict = True):
     countries = data[country_col]
-    countries = countries.map(lambda x: CheckKeys(x, c_dict))
+    countries = countries.apply(lambda x: CheckKeys(x, c_dict, not_in_dict))
     data[country_col] = countries
     return data
 
@@ -56,8 +59,17 @@ def YearCutoff(data, year_col, begin, end):
 
 #Function to convert organizations to their constituent countries then explode the dataframe
 
-def ConvertOrgs(data, country_col):
-    
+def ApplyOrg(x, country_col, org_list):
+    if x[country_col] in org_list.keys():
+        x[country_col] = org_list[x[country_col]]
+    return x
+
+def ConvertOrgs(data, country_col, org_list):
+    data = data.apply(lambda x: ApplyOrg(x, country_col, org_list), axis = 1)
+    data = data.explode(country_col, ignore_index = True)
+    return data
+
+
 
 
 
