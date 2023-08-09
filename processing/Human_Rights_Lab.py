@@ -69,6 +69,21 @@ def ConvertOrgs(data, country_col, org_list):
     data = data.explode(country_col, ignore_index = True)
     return data
 
+#function to create a score column
+
+def ApplyScore(x, scores, data_country_col, score_country_col, score_score_col):
+    country = x[data_country_col]
+    score = scores.loc[scores[score_country_col] == country, score_score_col]
+    if score.shape[0] == 0:
+        return "N/A"
+    else:
+        return score.values[0]
+
+def CreateScoreCol(data, scores, data_country_col, score_country_col, score_score_col, new_col_name):
+    scores = data.apply(lambda x: ApplyScore(x, scores, data_country_col, score_country_col, score_score_col), axis = 1)
+    data[new_col_name] = scores
+    return data
+
 
 
 
