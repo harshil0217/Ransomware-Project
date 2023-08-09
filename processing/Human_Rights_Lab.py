@@ -29,18 +29,18 @@ def CountryCodes(data, country_col, c_dict, not_in_dict = True):
     return data
 
 #functions to remove rows containing certain locations
-def IncludeCountry(x, to_remove, country_col, filter_out):
+def IncludeCountry(x, countries, country_col, filter_out):
     if filter_out == True:
-        if x[country_col] in to_remove:
+        if x[country_col] in countries:
             return False
         return True
     else:
-        if x[country_col] in to_remove:
+        if x[country_col] in countries:
             return True
         return False
 
-def RemoveLoc(data, to_remove, country_col, filter_out = True):
-    include = data.apply(lambda x: IncludeCountry(x, to_remove, country_col, filter_out), axis = 1)
+def RemoveLoc(data, countries, country_col, filter_out = True):
+    include = data.apply(lambda x: IncludeCountry(x, countries, country_col, filter_out), axis = 1)
     data = data[include]
     return data
 
@@ -71,16 +71,29 @@ def ConvertOrgs(data, country_col, org_list):
 
 #function to create a score column
 
-def ApplyScore(x, scores, data_country_col, score_country_col, score_score_col):
+def ApplyScore(x, scores, data_country_col, score_country_col, score_score_col, 
+               year_sensitive, data_year_col, score_year_col):
     country = x[data_country_col]
-    score = scores.loc[scores[score_country_col] == country, score_score_col]
-    if score.shape[0] == 0:
-        return "N/A"
+    if year_sensitive == False:
+        score = scores.loc[scores[score_country_col] == country, score_score_col]
+        if score.shape[0] == 0:
+            return "N/A"
+        else:
+            return score.values[0]
     else:
-        return score.values[0]
+        year = x[data_year_col]
+        score = scores.loc[(scores[score_country_col] == country) & (scores[score_year_col] == year), 
+                           score_score_col]
+        if score.shape[0] == 0:
+            return "N/A"
+        else:
+            return score.values[0]
 
-def CreateScoreCol(data, scores, data_country_col, score_country_col, score_score_col, new_col_name):
-    scores = data.apply(lambda x: ApplyScore(x, scores, data_country_col, score_country_col, score_score_col), axis = 1)
+def CreateScoreCol(data, scores, data_country_col, score_country_col, score_score_col, new_col_name, 
+                   year_sensitive = False, data_year_col = None, score_year_col = None):
+    scores = data.apply(lambda x: ApplyScore(x, scores, data_country_col, score_country_col,
+                                              score_score_col, year_sensitive, data_year_col, 
+                                              score_year_col), axis = 1)
     data[new_col_name] = scores
     return data
 
